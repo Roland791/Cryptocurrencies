@@ -22,8 +22,8 @@ Please refer to the [Crypto_clustering.ipynb file](https://github.com/Roland791/
 
 1) a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
 
-![3D Scatter](/images/3D_Scatter.PNG)
+![3D Scatter](/Images/3D_Scatter.PNG)
 
 2) A Scatter Plot created using Scaled Numbers from clustered_df Dataframe after running it through the fit_transform function.
 
-![Scaled Cluster Scatter](/images/Scaled Cluster Scatter.PNG)
+![Scaled Cluster Scatter](/Images/Scaled_Cluster_Scatter.PNG)
